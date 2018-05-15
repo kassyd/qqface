@@ -1,0 +1,527 @@
+[
+  {
+    "category": "qqface",
+    "value": "[微笑]",
+    "icon": "../qqface/qqface0.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[撇嘴]",
+    "icon": "../qqface/qqface1.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[色]",
+    "icon": "../qqface/qqface2.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[发呆]",
+    "icon": "../qqface/qqface3.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[得意]",
+    "icon": "../qqface/qqface4.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[流泪]",
+    "icon": "../qqface/qqface5.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[害羞]",
+    "icon": "../qqface/qqface6.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[闭嘴]",
+    "icon": "../qqface/qqface7.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[睡]",
+    "icon": "../qqface/qqface8.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[大哭]",
+    "icon": "../qqface/qqface9.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[尴尬]",
+    "icon": "../qqface/qqface10.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[发怒]",
+    "icon": "../qqface/qqface11.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[调皮]",
+    "icon": "../qqface/qqface12.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[呲牙]",
+    "icon": "../qqface/qqface13.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[惊讶]",
+    "icon": "../qqface/qqface14.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[难过]",
+    "icon": "../qqface/qqface15.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[冷汗]",
+    "icon": "../qqface/qqface16.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[抓狂]",
+    "icon": "../qqface/qqface17.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[吐]",
+    "icon": "../qqface/qqface18.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[偷笑]",
+    "icon": "../qqface/qqface19.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[愉快]",
+    "icon": "../qqface/qqface20.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[白眼]",
+    "icon": "../qqface/qqface21.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[傲慢]",
+    "icon": "../qqface/qqface22.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[饥饿]",
+    "icon": "../qqface/qqface23.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[困]",
+    "icon": "../qqface/qqface24.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[惊恐]",
+    "icon": "../qqface/qqface25.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[流汗]",
+    "icon": "../qqface/qqface26.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[悠闲]",
+    "icon": "../qqface/qqface27.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[酷]",
+    "icon": "../qqface/qqface28.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[憨笑]",
+    "icon": "../qqface/qqface29.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[奋斗]",
+    "icon": "../qqface/qqface30.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[咒骂]",
+    "icon": "../qqface/qqface31.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[疑问]",
+    "icon": "../qqface/qqface32.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[嘘]",
+    "icon": "../qqface/qqface33.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[晕]",
+    "icon": "../qqface/qqface34.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[衰]",
+    "icon": "../qqface/qqface35.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[骷髅]",
+    "icon": "../qqface/qqface36.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[敲打]",
+    "icon": "../qqface/qqface37.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[再见]",
+    "icon": "../qqface/qqface38.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[擦汗]",
+    "icon": "../qqface/qqface39.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[抠鼻]",
+    "icon": "../qqface/qqface40.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[鼓掌]",
+    "icon": "../qqface/qqface41.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[糗大了]",
+    "icon": "../qqface/qqface42.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[坏笑]",
+    "icon": "../qqface/qqface43.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[疯了]",
+    "icon": "../qqface/qqface44.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[左哼哼]",
+    "icon": "../qqface/qqface45.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[右哼哼]",
+    "icon": "../qqface/qqface46.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[哈欠]",
+    "icon": "../qqface/qqface47.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[鄙视]",
+    "icon": "../qqface/qqface48.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[委屈]",
+    "icon": "../qqface/qqface49.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[快哭了]",
+    "icon": "../qqface/qqface50.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[阴险]",
+    "icon": "../qqface/qqface51.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[亲亲]",
+    "icon": "../qqface/qqface52.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[吓]",
+    "icon": "../qqface/qqface53.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[可怜]",
+    "icon": "../qqface/qqface54.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[西瓜]",
+    "icon": "../qqface/qqface55.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[啤酒]",
+    "icon": "../qqface/qqface56.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[篮球]",
+    "icon": "../qqface/qqface57.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[乒乓]",
+    "icon": "../qqface/qqface58.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[菜刀]",
+    "icon": "../qqface/qqface59.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[猪头]",
+    "icon": "../qqface/qqface60.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[玫瑰]",
+    "icon": "../qqface/qqface61.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[凋谢]",
+    "icon": "../qqface/qqface62.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[蛋糕]",
+    "icon": "../qqface/qqface63.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[闪电]",
+    "icon": "../qqface/qqface64.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[足球]",
+    "icon": "../qqface/qqface65.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[瓢虫]",
+    "icon": "../qqface/qqface66.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[咖啡]",
+    "icon": "../qqface/qqface67.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[饭]",
+    "icon": "../qqface/qqface68.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[炸弹]",
+    "icon": "../qqface/qqface69.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[刀]",
+    "icon": "../qqface/qqface70.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[便便]",
+    "icon": "../qqface/qqface71.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[爱心]",
+    "icon": "../qqface/qqface72.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[心碎]",
+    "icon": "../qqface/qqface73.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[嘴唇]",
+    "icon": "../qqface/qqface74.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[礼物]",
+    "icon": "../qqface/qqface75.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[拥抱]",
+    "icon": "../qqface/qqface76.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[强]",
+    "icon": "../qqface/qqface77.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[弱]",
+    "icon": "../qqface/qqface78.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[胜利]",
+    "icon": "../qqface/qqface79.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[抱拳]",
+    "icon": "../qqface/qqface80.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[拳头]",
+    "icon": "../qqface/qqface81.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[差劲]",
+    "icon": "../qqface/qqface82.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[爱你]",
+    "icon": "../qqface/qqface83.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[NO]",
+    "icon": "../qqface/qqface84.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[OK]",
+    "icon": "../qqface/qqface85.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[月亮]",
+    "icon": "../qqface/qqface86.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[太阳]",
+    "icon": "../qqface/qqface87.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[勾引]",
+    "icon": "../qqface/qqface88.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[握手]",
+    "icon": "../qqface/qqface89.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[爱情]",
+    "icon": "../qqface/qqface90.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[飞吻]",
+    "icon": "../qqface/qqface91.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[发抖]",
+    "icon": "../qqface/qqface92.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[怄火]",
+    "icon": "../qqface/qqface93.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[转圈]",
+    "icon": "../qqface/qqface94.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[磕头]",
+    "icon": "../qqface/qqface95.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[回头]",
+    "icon": "../qqface/qqface96.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[激动]",
+    "icon": "../qqface/qqface97.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[乱舞]",
+    "icon": "../qqface/qqface98.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[献吻]",
+    "icon": "../qqface/qqface99.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[右太极]",
+    "icon": "../qqface/qqface100.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[跳跳]",
+    "icon": "../qqface/qqface101.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[跳绳]",
+    "icon": "../qqface/qqface102.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[左太极]",
+    "icon": "../qqface/qqface103.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[投降]",
+    "icon": "../qqface/qqface104.png"
+  }
+]
